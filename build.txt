@@ -24,3 +24,4 @@
 "Build definition: Trigger-GitHub-PR-Tester_20180210.9 !" 
 "Build definition: Trigger-GitHub-PR-Tester_20180210.10 !" 
 "Build definition: Trigger-GitHub-PR-Tester_20180213.1 !" 
+"Build definition: Trigger-GitHub-PR-Tester_20180213.2 !" 
