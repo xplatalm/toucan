@@ -115,3 +115,4 @@
 "Build definition: Trigger-GitHub-PR-Tester_20180808.1 !" 
 "Build definition: Trigger-GitHub-PR-Tester_20180809.1 !" 
 "Build definition: Trigger-GitHub-PR-Tester_20180810.1 !" 
+"Build definition: Trigger-GitHub-PR-Tester_20180813.1 !" 
