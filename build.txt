@@ -380,3 +380,4 @@
 "Build definition: Trigger-GitHub-PR-Tester_20190728.1 !" 
 "Build definition: Trigger-GitHub-PR-Tester_20190729.1 !" 
 "Build definition: Trigger-GitHub-PR-Tester_20190730.1 !" 
+"Build definition: Trigger-GitHub-PR-Tester_20190731.1 !" 
