@@ -484,3 +484,4 @@
 "Build definition: Trigger-GitHub-PR-Tester_20191108.1 !" 
 "Build definition: Trigger-GitHub-PR-Tester_20191109.1 !" 
 "Build definition: Trigger-GitHub-PR-Tester_20191110.1 !" 
+"Build definition: Trigger-GitHub-PR-Tester_20191111.1 !" 
