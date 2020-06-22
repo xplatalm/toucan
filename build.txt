@@ -709,3 +709,4 @@
 "Build definition: Trigger-GitHub-PR-Tester_20200619.1 !" 
 "Build definition: Trigger-GitHub-PR-Tester_20200620.1 !" 
 "Build definition: Trigger-GitHub-PR-Tester_20200621.1 !" 
+"Build definition: Trigger-GitHub-PR-Tester_20200622.1 !" 
