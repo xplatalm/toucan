@@ -803,3 +803,4 @@
 "Build definition: Trigger-GitHub-PR-Tester_20200921.1 !" 
 "Build definition: Trigger-GitHub-PR-Tester_20200922.1 !" 
 "Build definition: Trigger-GitHub-PR-Tester_20200923.1 !" 
+"Build definition: Trigger-GitHub-PR-Tester_20200924.1 !" 
