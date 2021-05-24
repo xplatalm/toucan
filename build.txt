@@ -1036,3 +1036,4 @@
 "Build definition: Trigger-GitHub-PR-Tester_20210521.1 !" 
 "Build definition: Trigger-GitHub-PR-Tester_20210522.1 !" 
 "Build definition: Trigger-GitHub-PR-Tester_20210523.1 !" 
+"Build definition: Trigger-GitHub-PR-Tester_20210524.1 !" 
