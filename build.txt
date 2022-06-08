@@ -1419,3 +1419,4 @@ Build definition: %BUILD_BUILDNUMBER% !
 "Build definition: Trigger-GitHub-PR-Tester_20220605.1 !" 
 "Build definition: Trigger-GitHub-PR-Tester_20220606.1 !" 
 "Build definition: Trigger-GitHub-PR-Tester_20220607.1 !" 
+"Build definition: Trigger-GitHub-PR-Tester_20220608.1 !" 
